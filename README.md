@@ -67,7 +67,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-[Aniruddh R Panicker](https://github.com/yourusername)
+[Aniruddh R Panicker](https://github.com/RPAniruddh)
 
 ---
 
